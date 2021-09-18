@@ -18,10 +18,22 @@ let allMusic = [
     src: "bo en - my time"
   },
   {
-    name: "Friday Night Funkin  Maginage Matches Mod - Full Soundtrack, Tic Tac Foe, Hit-N Strike, Acrimony",
+    name: "Tic Tac Foe - Friday Night Funkin Maginage Matches",
     artist: "VeroBeats",
-    img: "maginage-matches",
-    src: "Friday Night Funkin  Maginage Matches Mod - Full Soundtrack, Tic Tac Foe, Hit-N Strike, Acrimony"
+    img: "Tic Tac Foe - Friday Night Funkin Maginage Matches",
+    src: "Tic Tac Foe - Friday Night Funkin Maginage Matches"
+  },
+  {
+    name: "Hit N Strike - Friday Night Funkin Maginage Matches",
+    artist: "VeroBeats",
+    img: "Hit N Strike - Friday Night Funkin Maginage Matches",
+    src: "Hit N Strike - Friday Night Funkin Maginage Matches"
+  },
+  {
+    name: "Acrimony - Friday Night Funkin Maginage Matches",
+    artist: "VeroBeats",
+    img: "Acrimony - Friday Night Funkin Maginage Matches",
+    src: "Acrimony - Friday Night Funkin Maginage Matches"
   },
   {
     name: "Hãy Trao Cho Anh - Miku Cover",
