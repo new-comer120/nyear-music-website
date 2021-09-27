@@ -19,6 +19,7 @@ h2 {
 	align-items: center;
 	flex-direction: column;
 	justify-content: center;
+	text-align: center;
 }
 
 .countdown {
