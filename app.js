@@ -70,7 +70,7 @@ let track_list = [
   name: "Deltarune Chapter 2 OST - Lost Girl",
   artist: "Toby Fox",
   image: "images/deltarune_chapter2.jpg",
-  path: "song/Deltarune Chapter 2 OST! 30 - Lost Girl.mp3"
+  path: "songs/Deltarune Chapter 2 OST! 30 - Lost Girl.mp3"
 },
 {
   name: "IT'S OKAY! (Jaiden Animations Remix)",
