@@ -1,7 +1,7 @@
-
-<!DOCTYPE html>
-<html lang="en">
+<<!DOCTYPE html>
+<html>
 <head>
+<<<<<<< Updated upstream
   <title>Music Playlist | The Boring Years, chin up!</title>
   <!-- Load FontAwesome icons -->
   <link rel="stylesheet" 
@@ -10,49 +10,43 @@
   
   <!-- Load the custom CSS style file -->
   <link rel="stylesheet" type="text/css" href="styles.css">
+=======
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Music Playlist | The Boring Years, chin up!</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link 
+		href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" 
+		rel="stylesheet"
+	>
+	<link rel="stylesheet" href="styles.css">
+>>>>>>> Stashed changes
 </head>
 <body>
-  <div class="player">
-  
-    <!-- Define the section for displaying details -->
-    <div class="details">
-      <div class="now-playing">PLAYING x OF y</div>
-      <div class="track-art"></div>
-      <div class="track-name">Track Name</div>
-      <div class="track-artist">Track Artist</div>
-    </div>
-  
-    <!-- Define the section for displaying track buttons -->
-    <div class="buttons">
-      <div class="prev-track" onclick="prevTrack()">
-        <i class="fa fa-step-backward fa-2x"></i>
-      </div>
-      <div class="playpause-track" onclick="playpauseTrack()">
-        <i class="fa fa-play-circle fa-5x"></i>
-      </div>
-      <div class="next-track" onclick="nextTrack()">
-        <i class="fa fa-step-forward fa-2x"></i>
-      </div>
-    </div>
-  
-    <!-- Define the section for displaying the seek slider-->
-    <div class="slider_container">
-      <div class="current-time">00:00</div>
-      <input type="range" min="1" max="100"
-        value="0" class="seek_slider" onchange="seekTo()">
-      <div class="total-duration">00:00</div>
-    </div>
-  
-    <!-- Define the section for displaying the volume slider-->
-    <div class="slider_container">
-      <i class="fa fa-volume-down"></i>
-      <input type="range" min="1" max="100"
-        value="99" class="volume_slider" onchange="setVolume()">
-      <i class="fa fa-volume-up"></i>
-    </div>
-  </div>
-  
-  <!-- Load the main script for the player -->
-  <script src="app.js"></script>
+	<section class="text-main">
+		<div>
+			<h2>Coming Soon!</h2>
+			<div class="countdown">
+				<div class="container-day">
+					<h3 class="day"></h3>
+					<h3>Day</h3>
+				</div>
+				<div class="container-hour">
+					<h3 class="hour"></h3>
+					<h3>Hour</h3>
+				</div>
+				<div class="container-minute">
+					<h3 class="minute"></h3>
+					<h3>Minute</h3>
+				</div>
+				<div class="container-second">
+					<h3 class="second"></h3>
+					<h3>Second</h3>
+				</div>
+			</div>
+		</section>
+	</div>
+	<script src="app.js"></script>
 </body>
-</html>
+</html>	
