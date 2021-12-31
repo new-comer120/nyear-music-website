@@ -1,6 +1,0 @@
-{
-  name: "Song name",
-  artist: "song artist",
-  image: "song image in images",
-  path: "song path in songs"
-},
