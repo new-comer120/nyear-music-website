@@ -1,4 +1,4 @@
-// Select all the elements in the HTML page
+// Select all the elements in the page
 // and assign them to a variable
 let now_playing = document.querySelector(".now-playing");
 let track_art = document.querySelector(".track-art");
