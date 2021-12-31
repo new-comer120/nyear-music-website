@@ -76,19 +76,19 @@ let track_list = [
   name: "Friday Night Funkin': Starlight Mayhem OST - Inverted Ascension",
   artist: "TheMaskedChris",
   image: "images/starlight-mayhem.jpg",
-  path: "songs/Inverted-Ascension-cj.mp3"
+  path: "songs/Inverted-Ascension-old.mp3"
 },
 {
   name: "Friday Night Funkin': Starlight Mayhem OST - Echoes",
   artist: "TheMaskedChris",
   image: "images/starlight-mayhem.jpg",
-  path: "songs/echoes-ruby.mp3"
+  path: "songs/echoes-old.mp3"
 },
 {
   name: "Friday Night Funkin': Starlight Mayhem OST - Artificial Lust",
   artist: "TheMaskedChris",
   image: "images/starlight-mayhem.jpg",
-  path: "songs/artificial lust.mp3"
+  path: "songs/artificial-lust-old.mp3"
 },
 {
   name: "Anticipation + Enemy Approaching - UNDERTALE 5th Anniversary",
@@ -151,6 +151,30 @@ let track_list = [
   path: "songs/2 phut hon.mp3"
 },
 {
+  name: "Friday Night Funkin' Bob and Bosip OST - Tutorial Remix",
+  artist: "SplatterDash",
+  image: "images/b&b/tutorial.jpg",
+  path: "songs/B&B/tutorial.mp3"
+},
+{
+  name: "Friday Night Funkin' Bob and Bosip OST - Jump In",
+  artist: "DPZ",
+  image: "images/b&b/jump-in.jpg",
+  path: "songs/B&B/jump-in.mp3"
+},
+{
+  name: "Friday Night Funkin' Bob and Bosip OST - Swing",
+  artist: "SplatterDash",
+  image: "images/b&b/swing.jpg",
+  path: "songs/B&B/swing.mp3"
+},
+{
+  name: "Friday Night Funkin' Bob and Bosip OST - Split",
+  artist: "Ardolf",
+  image: "images/b&b/ssplit.jpg",
+  path: "songs/B&B/split.mp3"
+},
+{
   name: "(2nd Intermisson) UNDERTALE - Song That Might Play When You Fight Sans",
   artist: "Toby Fox",
   image: "images/undertale.jpg",
@@ -181,10 +205,196 @@ let track_list = [
   path: "songs/amogus.mp3"
 },
 {
+  name: "Butter",
+  artist: "BTS",
+  image: "images/butter.jpg",
+  path: "songs/butter_bts.mp3"
+},
+{
+  name: "Friday Night Funkin': Starlight Mayhem Rebooted - Focus (Tutorial)",
+  artist: "TheMaskedChris",
+  image: "images/smreboot.jpg",
+  path: "songs/starlight-mayhem-rebooted/focus.mp3"
+},
+{
+  name: "Friday Night Funkin': Starlight Mayhem Rebooted - Inverted Ascension",
+  artist: "TheMaskedChris",
+  image: "images/smreboot.jpg",
+  path: "songs/starlight-mayhem-rebooted/inverted-ascension.mp3",
+},
+{
+  name: "Friday Night Funkin': Starlight Mayhem Rebooted - Echoes",
+  artist: "TheMaskedChris",
+  image: "images/smreboot.jpg",
+  path: "songs/starlight-mayhem-rebooted/echoes.mp3"
+},
+{
+  name: "Friday Night Funkin': Starlight Mayhem Rebooted - Artificial Lust",
+  artist: "TheMaskedChris",
+  image: "images/smreboot.jpg",
+  path: "songs/starlight-mayhem-rebooted/artificial-lust.mp3"
+},
+{
+  name: "Friday Night Funkin': Starlight Mayhem Rebooted - Parallax",
+  artist: "TheMaskedChris",
+  image: "images/smreboot.jpg",
+  path: "songs/starlight-mayhem-rebooted/parallax.mp3"
+},
+{
+  name: "Friday Night Funkin': Starlight Mayhem Rebooted - Starstorm",
+  artist: "TheMaskedChris",
+  image: "images/smreboot.jpg",
+  path: "songs/starlight-mayhem-rebooted/starstorm.mp3"
+},
+{
+  name: "Friday Night Funkin': Starlight Mayhem Rebooted - Coda",
+  artist: "TheMaskedChris",
+  image: "images/smreboot.jpg",
+  path: "songs/starlight-mayhem-rebooted/coda.mp3"
+},
+{
+  name: "Friday Night Funkin': Starlight Mayhem Rebooted - It's Complicated (CJ and Ruby version)",
+  artist: "TheMaskedChris",
+  image: "images/smreboot.jpg",
+  path: "songs/starlight-mayhem-rebooted/its-complicated.mp3"
+},
+{
+  name: "Doki Doki Takeover! OST - Beathoven (Natsuki Mix)",
+  artist: "Kallionic",
+  image: "images/ddto_after.jpg",
+  path: "songs/ddto-ost/Beathoven (Natsuki Mix).mp3"
+},
+{
+  name: "Doki Doki Takeover! OST - It's Complicated (Sayori Mix)",
+  artist: "Stardust Tunes",
+  image: "images/ddto_after.jpg",
+  path: "songs/ddto-ost/It's Complicated (Sayori Mix).mp3"
+},
+{
+  name: "Doki Doki Takeover! OST - Glitcher (Monika Mix)",
+  artist: "HighPoweredKeyz",
+  image: "images/ddto_after.jpg",
+  path: "songs/ddto-ost/Glitcher (Monika Mix).mp3"
+},
+{
+  name: "3rd Intermisson - DISCO FLAVA MAKES U HOT!? [FRIDAY NIGHT FUNKIN': DOKI DOKI TAKEOVER OST]",
+  artist: "Tony Astro",
+  image: "images/ddto_after.jpg",
+  path: "songs/ddto-ost/disco.mp3"
+},
+{
+  name: "Doki Doki Takeover! OST - Crucify (Yuri Mix)",
+  artist: "ClemO",
+  image: "images/ddto_after.jpg",
+  path: "songs/ddto-ost/Crucify (Yuri Mix).mp3"
+},
+{
+  name: "Genshin Impact Character OST - Raiden Shogun Theme",
+  artist: "HOYO-MiX",
+  image: "images/raiden.jpg",
+  path: "songs/raiden.flac"
+},
+{
+  name: " UNDERTALE OST - Your Best Nightmare",
+  artist: "Toby Fox",
+  image: "images/undertale.jpg",
+  path: "songs/Your Best Nightmare.mp3"
+},
+{
+  name: "DELTARUNE OST - Knock You Down !!",
+  artist: "Toby Fox",
+  image: "images/deltarune_chapter2.jpg",
+  path: "songs/delqueenknock.flac"
+},
+{
+  name: "UNDERTALE OST - Hopes and Dreams",
+  artist: "Toby Fox",
+  image: "images/undertale.jpg",
+  path: "songs/hopesadreams.flac"
+},
+{
+  name: "UNDERTALE OST - SAVE the World",
+  artist: "Toby Fox",
+  image: "images/undertale.jpg",
+  path: "songs/mus_xpart_2.ogg"
+},
+{
   name: "Deltarune Chapter 2 OST - Until Next Time",
   artist: "Toby Fox",
   image: "images/deltarune_chapter2.jpg",
   path: "songs/Deltarune Chapter 2 OST! 45 - Until Next Time.flac"
+},
+{
+  name: "The Thank You Letter For Who is listening to this",
+  artist: "new-comer120",
+  image: "images/thankyou.jpg",
+  path: "audio/rec.m4a"
+},
+{
+  name: "Friday Night Funkin' Bob and Bosip: The EX Update OST - Tutorial EX",
+  artist: "SplatterDash",
+  image: "images/b&b/tutorialEX.jpg",
+  path: "songs/B&B/tutorialEX.mp3"
+},
+{
+  name: "Friday Night Funkin' Bob and Bosip: The EX Update OST - Jump In EX",
+  artist: "DPZ",
+  image: "images/b&b/jump-inEX.jpg",
+  path: "songs/B&B/jump-inEX.mp3"
+},
+{
+  name: "Friday Night Funkin' Bob and Bosip: The EX Update OST - Swing EX",
+  artist: "SplatterDash",
+  image: "images/b&b/swingEX.jpg",
+  path: "songs/B&B/swingEX.mp3"
+},
+{
+  name: "Friday Night Funkin' Bob and Bosip: The EX Update OST - Split EX",
+  artist: "Ardolf",
+  image: "images/b&b/splitEX.jpg",
+  path: "songs/B&B/splitEX.mp3"
+},
+{
+  name: "Genshin Impact OST - Contemplation in Snow",
+  artist: "HOYO-MiX, Yu-Peng-Chen",
+  image: "images/genshin_1.jpg",
+  path: "songs/Genshin OST/Contemplation in Snow.mp3"
+},
+{
+  name: "Genshin Impact - Klee Character Demo OST",
+  artist: "HOYO-MiX, Yu-Peng-Chen",
+  image: "images/genshin_1.jpg",
+  path: "songs/klee.mp3"
+},
+{
+  name: "Genshin Impact OST - Rapid as Wildfires (Liyue Battle Theme I)",
+  artist: "HOYO-MiX, Yu-Peng-Chen",
+  image: "images/genshin-liyue.jpg",
+  path: "songs/Genshin OST/liyuebattle.mp3"
+},
+{
+  name: "Genshin Impact OST - Rex Incognito",
+  artist: "HOYO-MiX, Yu-Peng-Chen",
+  image: "images/genshin_1.jpg",
+  path: "songs/Genshin OST/Rex Incognito.mp3"
+},
+{
+  name: "Genshin Impact OST - Let the Living Beware (tnbee mix)",
+  artist: "tnbee?",
+  image: "images/tnbee.jpg",
+  path: "songs/Genshin OST/Hu Tao Theme Music EXTENDED - Let the Living Beware (tnbee mix) ! Genshin Impact.mp3",
+},
+{
+  name: "Genshin Impact OST - Duel in the Mist (Inazuma Battle Theme)",
+  artist: "HOYO-MiX, Yu-Peng-Chen",
+  image: "images/inazuma.jpg",
+  path: "songs/Genshin OST/Duel in the Mist.mp3"
+},
+{
+  name: "Genshin Impact OST - Ayaka Dance Theme",
+  artist: "HOYO-MiX",
+  image: "images/ayaka-dance.jpg",
+  path: "songs/Genshin OST/ayakadance.flac"
 }
 ];
 
