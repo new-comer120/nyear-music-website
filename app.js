@@ -259,6 +259,12 @@ let track_list = [
   path: "songs/starlight-mayhem-rebooted/its-complicated.mp3"
 },
 {
+  name: "STAY",
+  artist: "The Kid LAROI, Justin Bieber",
+  image: "images/stay.png",
+  path: "songs/The Kid LAROI, Justin Bieber - STAY (Official Video).mp3"
+},
+{
   name: "Doki Doki Takeover! OST - Beathoven (Natsuki Mix)",
   artist: "Kallionic",
   image: "images/ddto_after.jpg",
@@ -395,6 +401,12 @@ let track_list = [
   artist: "HOYO-MiX",
   image: "images/ayaka-dance.jpg",
   path: "songs/Genshin OST/ayakadance.flac"
+},
+{
+  name: "Water Resistant",
+  artist: "Anamanaguchi (feat. 8485)",
+  image: "images/water-resistant.jpg",
+  path: "songs/Anamanaguchi - Water Resistant (feat. 8485) [Monstercat Release].mp3"
 }
 ];
 
